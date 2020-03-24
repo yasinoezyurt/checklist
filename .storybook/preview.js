@@ -19,7 +19,7 @@ addDecorator(
           marginRight: '20px',
           fontSize: '25px',
           display: 'inline',
-          color: '#333',
+          color: '#363',
         },
         body: {
           paddingTop: 0,
@@ -36,11 +36,11 @@ addDecorator(
       },
       source: {
         h1: {
-          color: '#333',
+          color: '#363',
         },
       },
       propTableHead: {
-        color: '#333',
+        color: '#363',
       },
     },
     inline: false,
